@@ -1,0 +1,204 @@
+Christopher Arimih, MBA
+
+AI Trainer | Prompt Engineering | Response Evaluation | Data Annotation
+
+This portfolio demonstrates my ability to evaluate, improve, and structure AI-generated responses. The examples reflect real-world analytical scenarios related to operations, supply chain management, and general knowledge.
+
+⸻
+
+1. Prompt Engineering Example
+
+Prompt
+
+Explain the role of inventory management in large construction projects and identify three common risks that poor inventory control can create.
+
+⸻
+
+AI Response (Original)
+
+Inventory management is the process of tracking materials used in a construction project. It helps ensure materials are available when needed. If inventory is not managed well, it may lead to delays or increased costs.
+
+⸻
+
+Evaluation
+
+Strengths:
+	•	Provides a basic explanation of inventory management.
+	•	Correctly identifies that poor management can lead to delays and higher costs.
+
+Weaknesses:
+	•	The response lacks detailed explanation.
+	•	It does not include real-world construction examples.
+	•	The risks are not clearly structured.
+
+⸻
+
+Improved Version
+
+Inventory management plays a critical role in large construction projects by ensuring that materials are available when required without creating excessive stock.
+
+Poor inventory control can create several risks:
+	1.	Project Delays
+If key materials such as HVAC ducting or electrical components are unavailable, installation work can halt until materials arrive.
+	2.	Cost Overruns
+Urgent procurement or expedited shipping can significantly increase project costs.
+	3.	Material Waste or Obsolescence
+Improper stock tracking can lead to unused materials aging in storage or becoming obsolete.
+
+Effective inventory management systems use forecasting, cycle counting, and real-time tracking to reduce these risks.
+
+⸻
+
+2. AI Response Ranking Example
+
+Prompt
+
+Explain blockchain technology in simple terms.
+
+⸻
+
+Response A
+
+Blockchain is a decentralized digital ledger that records transactions across multiple computers. The system ensures transparency and prevents tampering with data.
+
+⸻
+
+Response B
+
+Blockchain is a technology that records transactions in a secure digital ledger shared across many computers. Each new transaction is grouped into blocks and linked to previous ones, forming a chain. This makes it difficult to alter past records and increases trust in the system.
+
+⸻
+
+Evaluation
+
+Response B is the better answer.
+
+Reasons:
+	1.	It explains the concept of blocks and chains, which helps clarify the origin of the term “blockchain”.
+	2.	It provides more context on how the technology works.
+	3.	The explanation is still simple while being more informative.
+
+Response A is technically correct but lacks explanatory depth.
+
+⸻
+
+3. Fact-Checking Example
+
+Claim
+
+The FIFA World Cup will expand to 48 teams starting in 2026.
+
+⸻
+
+Verification Process
+
+To verify the claim, authoritative sports governing body announcements were reviewed.
+
+The governing organization confirmed that the World Cup will increase from 32 teams to 48 teams beginning with the 2026 tournament.
+
+Source: FIFA
+
+⸻
+
+Conclusion
+
+The claim is accurate.
+
+The expansion is intended to allow greater global representation and will also introduce a new tournament format.
+
+⸻
+
+4. AI Response Editing Example
+
+Prompt
+
+What causes supply chain disruptions?
+
+⸻
+
+AI Response (Original)
+
+Supply chains fail because companies do not plan properly.
+
+⸻
+
+Evaluation
+
+The response is overly simplistic and does not address the complexity of supply chain systems.
+
+It lacks examples and supporting explanation.
+
+⸻
+
+Improved Response
+
+Supply chain disruptions can occur for several reasons, including:
+	1.	Supplier Delays
+Manufacturers may fail to deliver materials on time due to production issues.
+	2.	Transportation Problems
+Port congestion, customs delays, or logistics failures can slow down deliveries.
+	3.	Demand Forecasting Errors
+Inaccurate forecasting can lead to shortages or excess inventory.
+	4.	Global Events
+Pandemics, geopolitical conflicts, or natural disasters can disrupt production and logistics networks.
+
+Organizations mitigate these risks through supplier diversification, safety stock planning, and improved forecasting models.
+
+⸻
+
+5. Logical Reasoning Evaluation Example
+
+Prompt
+
+A company maintains an inventory of 1,000 units. Weekly demand is 200 units and replenishment takes two weeks.
+
+Is the company at risk of stockout?
+
+⸻
+
+Analysis
+
+Weekly demand = 200 units
+Lead time = 2 weeks
+
+Demand during lead time:
+
+200 × 2 = 400 units
+
+If the company places an order when stock falls below 400 units, it may experience a stockout before replenishment arrives.
+
+⸻
+
+Conclusion
+
+The company should maintain a reorder point above 400 units to prevent supply disruption.
+
+Safety stock may also be required depending on demand variability.
+
+⸻
+
+Skills Demonstrated
+
+Through the examples above, the following AI training competencies are demonstrated:
+	•	Prompt Engineering
+	•	AI Response Evaluation
+	•	Response Ranking
+	•	Fact Checking and Source Verification
+	•	Logical Reasoning Analysis
+	•	Response Editing and Improvement
+	•	Structured Analytical Writing
+
+⸻
+
+Tools
+	•	ChatGPT
+	•	Microsoft Excel
+	•	Google Docs
+
+⸻
+
+Portfolio Author
+
+Christopher Arimih, MBA
+
+AI Trainer | Operations & Supply Chain Analyst
